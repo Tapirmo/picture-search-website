@@ -20,7 +20,6 @@
 
 ### 安裝套件
 npm install
-- npm install
 - react-router-dom@6.24.0
 - axios@1.7.2
 - dotenv@16.4.5
