@@ -1,0 +1,2 @@
+# picture-search-website
+這是一個圖片搜尋網，使用者可以在搜尋欄位輸入想要的圖片，按下Search後顯示在下方。點選Download picture即可開啟分頁下載圖片。點選More picture可以看到更多同類型圖片顯示在網頁下方。
