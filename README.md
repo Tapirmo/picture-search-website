@@ -15,8 +15,8 @@
 ![PictureSearch2](https://i.ibb.co/dWM2T8L/Picture-Search5.png)
 
 ## 安裝
-Node.js 版本建議為: v20.12.0 以上
-React.js 版本建議為: v18.3.1 以上
+- Node.js 版本建議為: v20.12.0 以上
+- React.js 版本建議為: v18.3.1 以上
 
 ### 安裝套件
 npm install
