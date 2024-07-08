@@ -31,7 +31,7 @@ dotenv@16.4.5
 Terminal cmd picsearch> node index.js
 
 ### 開啟專案
-專案運行後，在瀏覽器輸入以下即可看到畫面
+專案運行後，在瀏覽器輸入以下網址，即可看到畫面。
 http://localhost:3000/
 
 ### 環境變數說明
