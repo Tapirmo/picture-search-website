@@ -13,8 +13,9 @@
 ## 畫面
 ![PictureSearch1](https://i.ibb.co/9pX7bRw/Picture-Search4.png)
 ![PictureSearch2](https://i.ibb.co/dWM2T8L/Picture-Search5.png)
--實際操作畫面如下:(YT連結)
-https://youtu.be/vTpu2wYrV9A
+
+## 操作功能影片
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vTpu2wYrV9A/0.jpg)](https://www.youtube.com/watch?v=vTpu2wYrV9A)
 
 ## 安裝
 - Node.js 版本建議為: v20.12.0 以上
